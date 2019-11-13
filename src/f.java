@@ -5,7 +5,7 @@ public class f {
 
 
             if(true){
-                
+                System.out.println("hello");
             }
         }
     }
