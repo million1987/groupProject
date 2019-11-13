@@ -1,5 +1,8 @@
 public class f {
     public static void main(String[] args) {
-        System.out.println("kkds");
+
+        for (int i = o; i==1;) {
+
+        }
     }
 }
