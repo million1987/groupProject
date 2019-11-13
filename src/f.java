@@ -3,6 +3,10 @@ public class f {
 
         for (int i = o; i==1;) {
 
+
+            if(true){
+                
+            }
         }
     }
 }
